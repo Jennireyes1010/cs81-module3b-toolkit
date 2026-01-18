@@ -2,3 +2,7 @@ function double(n) {
   return n * 2;
 }
 console.log(double(8)); 
+function isEven(n) {
+  return n % 2 === 0;
+}
+console.log(isEven(7));
