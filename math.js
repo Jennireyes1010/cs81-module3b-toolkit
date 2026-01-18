@@ -17,3 +17,8 @@ function cube(n) {
     return n * n * n;
 }
 console.log(cube(6));
+
+function isOdd(n) {
+    return n % 2 !== 0;
+}
+console.log(isOdd(4));
