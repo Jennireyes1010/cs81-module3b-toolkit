@@ -12,3 +12,8 @@ function square(n) {
     return n * n;
 }
 console.log(square(9));
+
+function cube(n) {
+    return n * n * n;
+}
+console.log(cube(6));
