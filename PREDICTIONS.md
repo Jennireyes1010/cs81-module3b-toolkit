@@ -1,0 +1,1 @@
+I predict the double(n) function will return my input as its doubled value, I will use 8 so I expect 16 as my result. 
