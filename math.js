@@ -1,8 +1,14 @@
 function double(n) {
   return n * 2;
 }
-console.log(double(8)); 
+  console.log(double(8)); 
+
 function isEven(n) {
-  return n % 2 === 0;
+    return n % 2 === 0;
 }
 console.log(isEven(7));
+
+function square(n) {
+    return n * n;
+}
+console.log(square(9));
